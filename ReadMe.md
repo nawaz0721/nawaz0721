@@ -1,23 +1,20 @@
-<!-- Header with animated gradient -->
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Ahmed+Nawaz+Gondal;Full-Stack+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+<!--START_SECTION:waka-->
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Ahmed+Nawaz+Gondal;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <!-- Animated divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
 # 💫 About Me:
-🎯 **2025 Focus:** Mastering TypeScript & Building Scalable Web Apps<br>
-🔭 **Secret Project:** Next-gen SaaS platform (Coming Soon!)<br>
-🌱 **Learning:** Web3, GraphQL, and Microservices Architecture<br>
-💡 **Tech Philosophy:** "Clean code > Clever code"<br>
-⚡ **Fun Fact:** I automate my coffee brewing with Python!<br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7A3&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;One+line+of+code+at+a+time" alt="Typing SVG" />
-  </a>
-</p>
+🔭 **Currently working on:** A very secret project (shhh!)  
+🌱 **Currently learning:** Advanced React patterns & Web3 development  
+👯 **Looking to collaborate on:** A weather app with real-time analytics  
+🤝 **Looking for help with:** Integrating a chat API into my projects  
+💬 **Ask me about:** My favorite programming tools (VS Code + Copilot FTW!)  
+⚡ **Fun fact:** I once coded for 12 hours straight and loved every minute of it!  
+🎯 **2025 Goals:** Contribute more to open source & master TypeScript  
 
 ## 🌐 Let's Connect:
 <div align="center">
@@ -31,28 +28,37 @@
 </div>
 
 # 🛠 Tech Stack:
-### 🔮 Frontend Magic
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏗️ Backend Building
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 📜 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -72,28 +78,18 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-
 [![Car Rental System](https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=radical&show_owner=true)](https://github.com/nawaz0721/Car-Rental)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=your-repo&theme=radical&show_owner=true)](https://github.com/nawaz0721/your-repo)
-
 </div>
 
-## 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Microservice Architecture](https://medium.com/)
-- [Mastering React Performance Optimization](https://medium.com/)
-- [TypeScript Best Practices for Large Projects](https://medium.com/)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎶 Currently Coding To
-[![Spotify](https://spotify-readme-iota.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-## 👨‍💻 Coding Activity
+## 👨‍💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-🚀 Weekly Development Breakdown
+🚀 Weekly Coding Activity (Updates Automatically)
 
 TypeScript   ████████████████████░░░░░   75.2% 
 JavaScript   ████████░░░░░░░░░░░░░░░░░   32.1%
 Python       ████░░░░░░░░░░░░░░░░░░░░░   15.4%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
+C++          ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
+Other        █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+
+<!--END_SECTION:waka-->
