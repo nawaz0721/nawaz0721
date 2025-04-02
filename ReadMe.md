@@ -57,7 +57,6 @@
 
 ## 🎯 Recent Projects
 [![Car Rental System](https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=dark)](https://github.com/nawaz0721/Car-Rental)
-[![Car Rental System backend](https://github.com/nawaz0721/Car-Rental-Backend/api/pin/?username=nawaz0721&repo=your-repo-name&theme=dark)](https://github.com/nawaz0721/Car-Rental-Backend)
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
