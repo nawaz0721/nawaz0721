@@ -1,11 +1,16 @@
 <!--START_SECTION:waka-->
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Ahmed+Nawaz+Gondal;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</h1>
+
+<h1 align="center">Hi 👋, I'm AHMED NAWAZ GONDAL</h1>
+<h3 align="center">A passionate MERN STACK Developer.</h3>
+
+
 
 <!-- Animated divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
+
+
+<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 # 💫 About Me:
 🔭 **Currently working on:** A very secret project (shhh!)  
@@ -15,6 +20,9 @@
 💬 **Ask me about:** My favorite programming tools (VS Code + Copilot FTW!)  
 ⚡ **Fun fact:** I once coded for 12 hours straight and loved every minute of it!  
 🎯 **2025 Goals:** Contribute more to open source & master TypeScript  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaz0721&label=Profile%20views&color=0e75b6&style=flat" alt="nawaz0721" /> </p>
+
 
 ## 🌐 Let's Connect:
 <div align="center">
@@ -78,16 +86,8 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-[![Car Rental System](https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=radical&show_owner=true)](https://github.com/nawaz0721/Car-Rental)
+  <a href="https://github.com/nawaz0721/Car-Rental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=radical&show_owner=true" alt="Car Rental System" />
+  </a>
 </div>
-
-## 👨‍💻 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-🚀 Weekly Coding Activity (Updates Automatically)
-
-TypeScript   ████████████████████░░░░░   75.2% 
-JavaScript   ████████░░░░░░░░░░░░░░░░░   32.1%
-Python       ████░░░░░░░░░░░░░░░░░░░░░   15.4%
-C++          ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+<!--END_SECTION:waka-->
